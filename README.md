@@ -22,3 +22,6 @@ simulation VIDEO included.
 
 https://github.com/Hatim-Bousseta/Project-Report-Design-of-an-Asynchronous-Modulo-10-Counter/blob/main/Vid%C3%A9o%20Simulation.mp4
 
+
+
+<img width="1887" height="823" alt="image" src="https://github.com/user-attachments/assets/e69bfbe2-119f-4f00-b757-bfe8067f097f" />
