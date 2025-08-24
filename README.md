@@ -18,3 +18,7 @@ The report includes theoretical background, specifications, state diagrams, tran
 
 
 simulation VIDEO included.
+
+
+https://github.com/Hatim-Bousseta/Project-Report-Design-of-an-Asynchronous-Modulo-10-Counter/blob/main/Vid%C3%A9o%20Simulation.mp4
+
