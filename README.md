@@ -15,3 +15,6 @@ The report includes theoretical background, specifications, state diagrams, tran
 ### 3. Logic Diagram
 
 ### 4. Simulation and Validation
+
+
+simulation VIDEO included.
